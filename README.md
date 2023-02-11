@@ -1,6 +1,7 @@
 ## Kolekcija Anki špilova iz oblasti medicine
 
-Skup Anki špilova (*decks*) za ponavljanje medicinskog gradiva.
+Skup Anki špilova (*decks*) za ponavljanje medicinskog gradiva. Potrebna
+minimalno verzija 2.1.57 Ankija. Moguće da ne radi ispravno s ranijim verzijama.
 
 [Pročitaj ovo](http://dglava.github.io/medicina-ponavljanje.html) za više informacija.
 
